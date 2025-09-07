@@ -1,1 +1,1 @@
-secret value
+secret key
